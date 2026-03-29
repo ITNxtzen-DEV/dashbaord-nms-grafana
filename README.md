@@ -1,6 +1,6 @@
-# dashbaord-nms-grafanaPerfect! I understand completely. Let me create a TOGAF-aligned architecture for a Grafana + Prometheus + Elasticsearch dashboard that aggregates data from existing Zabbix (AWS) and Wazuh (GCP) via REST APIs and runs on AWS.
+# dashbaord-nms-grafanaPerfect!  TOGAF-aligned architecture for a Grafana + Prometheus + Elasticsearch dashboard that aggregates data from existing Zabbix (AWS) and Wazuh (GCP) via REST APIs and runs on AWS.
 
-I'll provide a single, definitive solution using Terraform + Docker as the primary deployment method.Perfect! I understand completely. You want a TOGAF Architecture-based, data aggregation-only solution where:
+This provides a single, definitive solution using Terraform + Docker as the primary deployment method.Perfect! I understand completely. You want a TOGAF Architecture-based, data aggregation-only solution where:
 
 ✅ Grafana Dashboard - Visualization layer (hosted on AWS)
 ✅ Prometheus - Metrics collection from APIs
